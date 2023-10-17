@@ -1,5 +1,8 @@
-# PoisonFrogs
 
-<img src="thumbnail_ensea x etis10.png" alt="Your Alt Text">
-<img src="nameBanner.svg" alt="Your Alt Text">
+
+<div align="center">
+  <picture>
+    <img src="image.png" width="700" alt="Image">
+  </picture>
+</div>
 
