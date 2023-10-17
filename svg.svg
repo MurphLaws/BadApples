@@ -1,0 +1,16 @@
+<svg width="888" height="228" xmlns="http://www.w3.org/2000/svg" clip-rule=" nonzero" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule=" evenodd" fill=" none" id="github-banner">
+   <g fill=" rgb(0, 0, 0)" id="gh-title">
+    <text x="-13" y="-154" text-anchor=" middle" font-weight="700" font-size=" 48px" font-family=" Roboto-Bold, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" id="name">
+     <tspan id="svg_1" y="111" x="447">Bad Apples!</tspan>
+    </text>
+    <text x="-13" y="-154" text-anchor=" middle" font-weight="normal" font-size=" 18px" font-family=" Roboto-Regular, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" id="description">
+     <tspan id="svg_2" y="160" x="447">Identifying ML Model Attacks via Influence Functions</tspan>
+    </text>
+   </g>
+  </g>
+ </g>
+</svg>
